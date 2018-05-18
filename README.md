@@ -41,6 +41,9 @@ You should also have a heading for `Soon`, which are action items on your backlo
 _Reminders_
 I also have a heading for `Reminders`, which consist of actionable feedback that I have received or goals for myself relating to my interactions with others.
 
+### Projects
+Keep all your project notes in one place. Create a subfolder for each project, and one or more files in that subfolder for notes, goals, meetings, and so on. It's okay to have tasks in the project, just make sure to surface the ones that you will need to get to soon under the 'Soon' header in your work journal. This will actually help that 'Soon' group from growing too large to manage.
+
 ### Notes
 Create a separate document for each project that you have planned or in the works. Write down your thoughts and ideas, paste in URLs of relevant project docs, and write preliminary to-dos. Don't worry about over-organizing: this is a place for you to brain dump and free your mind from having to remember a thousand details.
 
