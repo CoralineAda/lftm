@@ -33,7 +33,13 @@ For recurring meetings, keep a single document named for the meeting title. Jot 
 Make a folder for each month and one document for each week. Never work in advance.
 
 _Daily Headings_
-In the weekly document, you should have a heading for the current day and any previous day; avoid adding headings for the future (that's what calendars are for.)
+In the weekly document, you should have a heading for the current day and any previous day; avoid adding headings for the future (that's what calendars are for.) Pro tip: prefix line items under each daily heading with the project name, for easier searchability. Example:
+
+```
+- Hellblazer: create experiment for pending reservation dates
+- Summit: Create presentation on senior devs
+- Code clinic: examples for code show-and-tell
+```
 
 _Soon Heading_
 You should also have a heading for `Soon`, which are action items on your backlog. It's fine to arrange them in priority order but don't stress too much over this.
