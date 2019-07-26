@@ -47,6 +47,9 @@ You should also have a heading for `Soon`, which are action items on your backlo
 _Reminders_
 I also have a heading for `Reminders`, which consist of actionable feedback that I have received or goals for myself relating to my interactions with others.
 
+### Retrospectives
+Inside the personal and work journal folders are files called `retrospectives.txt`. I recommend filling out the work version on Friday at the end of your day, and the personal version on Sunday evening. This is a personal retrospective that gives you a place to reflect on your overall feelings about your week, what you accomplished, the people who helped you the most, and also the people that you helped. Take your time filling these out-- self-reflection goes a long way toward a sense of accomplishment and reinforces your good work.
+
 ### Projects
 Keep all your project notes in one place. Create a subfolder for each project, and one or more files in that subfolder for notes, goals, meetings, and so on. It's okay to have tasks in the project, just make sure to surface the ones that you will need to get to soon under the 'Soon' header in your work journal. This will actually help that 'Soon' group from growing too large to manage.
 
