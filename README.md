@@ -1,8 +1,8 @@
 # lftm
-A low-friction task management system.
+A low-friction task management system. Like a productivity app, without the app.
 
 ## Background
-I have tried every GTD approach and software application under the sun. Without fail they fall into two camps: not enough organization, or far too much organization. I finally developed a system that works well for me, is low-friction, and keeps me organized (even though by nature I am a very disorganized person.)
+I have tried every GTD approach and productivity tool under the sun. Without fail they fall into two camps: not enough organization, or far too much organization. I finally developed a system that works well for me, is low-friction, and keeps me organized (even though by nature I am a very disorganized person.)
 
 The system has several benefits:
   * Answers the question of 'what do I do next?', which is the ultimate productivity killer.
@@ -15,14 +15,12 @@ The system consists of a number of folders, each containing a specific kind of t
 
 ![Sample Project View](https://github.com/CoralineAda/lftm/blob/master/daily_example.png)
 
-It's important to keep these as plain text files. Don't do markdown or anything like that; this will increase friction. Plain text is faster, and faster means that you'll actually use the system.
+It's important to keep these as plain text files. Don't feel obliged to do markdown or anything like that; this will increase friction by making you think about formatting. Plain text is faster, and faster means that you'll actually use the system.
 
 ## Folder Structure
 
 ### 1-on-1s
-Keep a separate document for each person with whom you have 1-on-1s. Make date headings, and keep it updated with things that you want to talk about on that date.
-
-Before your 1-on-1, open the document to review your last session and remind yourself of the things that you want to talk about.
+Keep a separate document for each person with whom you have regular 1-on-1s. Make date headings, and keep it updated with things that you talked about. Add a "Next Time" header to track a backlog of topics or as a periodic reminder to check in on something. Before your 1-on-1, open the document to review your last session and remind yourself of the things that you want to talk about.
 
 During the meeting or immediately afterward, write down anything else that you talked about and capture action items. After the meeting is over, transfer the action items to your work journal under the `Soon` heading.
 
@@ -42,10 +40,16 @@ In the weekly document, you should have a heading for the current day and any pr
 ```
 
 _Soon Heading_
-You should also have a heading for `Soon`, which are action items on your backlog. It's fine to arrange them in priority order but don't stress too much over this.
+You should also have a heading for `Soon` items, which are action items on your backlog. It's fine to arrange them in priority order / stack rank them, but don't stress too much over this.
 
 _Reminders_
-I also have a heading for `Reminders`, which consist of actionable feedback that I have received or goals for myself relating to my interactions with others.
+I also have a heading for `Reminders`, which consist of actionable feedback that I have received or goals for myself relating to my interactions with others. Example:
+
+```
+- Think about how I want the other person to feel before saying something
+- Prioritize and optimize for impact and leverage
+- Turn critics into collaborators
+```
 
 ### Retrospectives
 Inside the personal and work journal folders are files called `retrospectives.txt`. I recommend filling out the work version on Friday at the end of your day, and the personal version on Sunday evening. This is a personal retrospective that gives you a place to reflect on your overall feelings about your week, what you accomplished, the people who helped you the most, and also the people that you helped. Take your time filling these out-- self-reflection goes a long way toward a sense of accomplishment and reinforces your good work.
@@ -57,4 +61,4 @@ Keep all your project notes in one place. Create a subfolder for each project, a
 Create a separate document for each project that you have planned or in the works. Write down your thoughts and ideas, paste in URLs of relevant project docs, and write preliminary to-dos. Don't worry about over-organizing: this is a place for you to brain dump and free your mind from having to remember a thousand details.
 
 ## How to Use The Journal
-When you start your day, pull a couple of items from your `Soon` heading up into the current day. As you work, take a few seconds to update the daily heading with what you're working on. Write down every task you completed or started, even if it feels minor. This will reinforce that you are a productive person and give you confidence in your ability to Get Shit Done.
+When you start your day, pull a couple of items from your `Soon` heading up into the current day. As you work, take a few seconds to update the daily heading with what you're working on. Write down every task you completed or started, even if it feels minor. This will reinforce your self-image as a productive person and give you confidence in your ability to Get Shit Done.
