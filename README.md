@@ -13,7 +13,7 @@ The system has several benefits:
 
 The system consists of a number of folders, each containing a specific kind of text file. I use BBEdit and open the parent folder as a project so that I have all of my subfolders in a tree view with easy access to their enclosed documents. You should be able to do the same thing in the editor of your choice.
 
-![Sample Project View](https://github.com/CoralineAda/lftm/blob/master/daily_example.png)
+![Sample Project View](https://raw.githubusercontent.com/CoralineAda/lftm/master/daily_example.png)
 
 It's important to keep these as plain text files. Don't feel obliged to do markdown or anything like that; this will increase friction by making you think about formatting. Plain text is faster, and faster means that you'll actually use the system.
 
