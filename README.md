@@ -15,8 +15,6 @@ The system consists of a number of folders, each containing a specific kind of t
 
 ![Sample Project View](https://raw.githubusercontent.com/CoralineAda/lftm/master/daily_example.png)
 
-It's important to keep these as plain text files. Don't feel obliged to do markdown or anything like that; this will increase friction by making you think about formatting. Plain text is faster, and faster means that you'll actually use the system.
-
 ## Folder Structure
 
 ### 1-on-1s
