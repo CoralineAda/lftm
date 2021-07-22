@@ -2,7 +2,7 @@
 A low-friction task management system. Like a productivity app, without the app.
 
 ## Background
-I have tried every GTD approach and productivity tool under the sun. Without fail they fall into two camps: not enough organization, or far too much organization. I finally developed a system that works well for me, is low-friction, and keeps me organized (even though by nature I am a very disorganized person.)
+I have tried every GTD approach and productivity tool under the sun. Without fail they fall into two camps: not enough organization, or far too much organization. I finally developed a system that works well for me, is low-friction, and keeps me organized.
 
 The system has several benefits:
   * Answers the question of 'what do I do next?', which is the ultimate productivity killer.
